@@ -6,5 +6,5 @@ do
         ssserver -p $ip -k hk.wwwsto -m aes-256-cfb &
         sleep 1
 done
-'EOF'
+EOF
 nohup sh ss_god.sh 2>&1 1>/dev/null &
