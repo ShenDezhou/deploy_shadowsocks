@@ -13,6 +13,3 @@ https://github.com/shadowsocks/shadowsocks-windows/releases/download/4.1.1/Shado
 #Z. bug list
 
   a. apple.com could not be reached.
-
-#国网招聘
-https://mp.weixin.qq.com/s/XjobJ5FeOxr842kdBPJeQQ
