@@ -1,7 +1,8 @@
 yum install -y git
 pip install git+https://github.com/shadowsocks/shadowsocks.git@master
 cat <<'EOF' > ss_god.sh
-for ip in {1..40}
+#/bin/bash
+for ip in {1..50}
 do
         ssserver -p "$ip" -k hk.wwwsto -m aes-256-cfb &
         sleep 1
