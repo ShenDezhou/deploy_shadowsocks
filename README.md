@@ -8,7 +8,7 @@ https://github.com/Jigsaw-Code/outline-releases/blob/master/client/Outline.apk?r
 
 #2.Windows
 
-https://github.com/shadowsocks/shadowsocks-windows/releases/download/4.1.1/Shadowsocks-4.1.1.zip
+https://github.com/shadowsocks/shadowsocks-windows/releases/download/4.1.2/Shadowsocks-4.1.2.zip
 
 #Z. bug list
 
