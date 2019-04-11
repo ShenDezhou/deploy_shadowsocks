@@ -1,4 +1,5 @@
 yum install -y git
+easy_install pip
 pip install git+https://github.com/shadowsocks/shadowsocks.git@master
 cat <<'EOF' > ss_god.sh
 #/bin/bash
