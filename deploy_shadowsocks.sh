@@ -1,3 +1,4 @@
+sed -i -- 's/mirrors.baidubce.com/mirrors.tuna.tsinghua.edu.cn/g' /etc/yum.repos.d/CentOS-Base.repo
 yum install -y git
 easy_install pip
 pip install git+https://github.com/shadowsocks/shadowsocks.git@master
