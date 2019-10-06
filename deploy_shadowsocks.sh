@@ -9,5 +9,6 @@ do
         ssserver -p "$ip" -k tw.wwwsto -m aes-256-gcm &
         sleep 1
 done
+ssserver -p 51 -k tw.wwwsto -m aes-256-cfb &
 EOF
 nohup sh ss_god.sh 2>&1 1>/dev/null &
